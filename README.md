@@ -30,10 +30,10 @@ pero aun no estaran en Git hub
 Con este comando guardamos los cambios en nuestro repositorio, aun no estan en Git Hub
 
 #### Git Push
-git push
++ git push
 
 Con este comando subimos los cambios ya al repositorio de Git Hub.
 
 #### Tip
-Con la flecha arriba navegas entre todos los comandos que escribiste anteriormente en la consola.
++ Con la flecha arriba navegas entre todos los comandos que escribiste anteriormente en la consola.
 
