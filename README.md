@@ -11,6 +11,7 @@ Copia un repositorio a tu computadora, para ser modificado de manera local
 #### LS
 + ls
 Muestra una lista de todos los archivos y carpetas existentes en donde estemos ubicados
+una variante es el comando ls -la, para mostrar elementos ocultos en el archivo
 
 #### CD
 + cd <Nombre del directorio>
